@@ -1,0 +1,9 @@
+{
+  "name": "insejn/facetwp",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "FacetWP plugin mirror for composer installation",
+  "keywords": [
+      "wordpress"
+  ]
+}
